@@ -15,3 +15,5 @@ Usage:
 
 I learned this by reading the wikipedia article here:
 https://en.wikipedia.org/wiki/K-means_clustering
+
+* as of 20/06/22 I am making this comment to complete the gh yolo merge
